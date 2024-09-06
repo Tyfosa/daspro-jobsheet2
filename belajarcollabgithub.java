@@ -5,9 +5,10 @@ public class belajarcollabgithub {
         System.out.println("NIM    : 244107060089");
         System.out.println("Alamat : Perum ARUMBA HILL RESIDENCE KAV 12");
         System.out.println("-----------------------------------------------");
-        System.out.println("Nama   : Tersiqo Alfarezel");
-        System.out.println("NIM    : 244107060089");
-        System.out.println("Alamat : Perum ARUMBA HILL RESIDENCE KAV 12");
+        System.out.println("Nama   : Tyfosa Helga Wijaya");
+        System.out.println("NIM    : 2441077060071");
+        System.out.println("Alamat : Pasuruan");
+        System.out.println("-----------------------------------------------");
         System.out.println("Nama   : Tersiqo Alfarezel");
         System.out.println("NIM    : 244107060089");
         System.out.println("Alamat : Perum ARUMBA HILL RESIDENCE KAV 12");
